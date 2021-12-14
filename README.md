@@ -26,8 +26,6 @@
 <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/marketing.png" width="22px"/> <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-bilingual-language-learning-inipagistudio-lineal-color-inipagistudio.png" width="22px"/> <img src="https://img.icons8.com/office/48/000000/video-editing.png" width="22px" />
 
 <br />
-<br />
-
 ---
 
 
