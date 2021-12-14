@@ -22,14 +22,9 @@
 
 ### Languages, Tools and Skills:
 
-<img src="https://img.icons8.com/dusk/64/000000/code.png" width="35px"/><img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="35px"/><img src="https://img.icons8.com/dusk/64/000000/pycharm.png" width="35px"/>
+<img src="https://img.icons8.com/dusk/64/000000/code.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/pycharm.png" width="35px"/>
 
-<img src="https://img.icons8.com/color/48/000000/django.png" width="35px"/>
-<img src="https://img.icons8.com/ios/50/000000/flask.png" width="35px"/>
-<img src="https://img.icons8.com/dusk/64/000000/python.png" width="35px"/>
-<img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="35px"/>
-<img src="https://img.icons8.com/dusk/64/000000/react.png" width="35px"/>
-<img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="35px"/>
+<img src="https://img.icons8.com/color/48/000000/django.png" width="35px"/> <img src="https://img.icons8.com/ios/50/000000/flask.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/python.png" width="35px"/><img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/react.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="35px"/>
 <img src="https://img.icons8.com/external-prettycons-flat-prettycons/94/000000/external-css-web-seo-prettycons-flat-prettycons.png"/ width="35px">
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="35px"/>
 
