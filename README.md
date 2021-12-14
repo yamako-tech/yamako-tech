@@ -20,6 +20,9 @@
 
 <br />
 
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamako-tech&layout=compact&theme=tokyonight)](https://github.com/yamako-tech/)
+
 ### Languages, Tools and Skills:
 
 <img src="https://img.icons8.com/dusk/64/000000/code.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/pycharm.png" width="22px"/> <img src="https://img.icons8.com/color/48/000000/django.png" width="22px"/> <img src="https://img.icons8.com/ios/50/000000/flask.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/python.png" width="22px"/><img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/react.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="22px"/> <img src="https://img.icons8.com/external-prettycons-flat-prettycons/94/000000/external-css-web-seo-prettycons-flat-prettycons.png" width="22px" /> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/wordpress.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/domain.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/security-ssl.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/server.png" width="22px"/> <img src="https://img.icons8.com/material-rounded/24/000000/dns.png" width="22px"/> <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/ssh.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/share-2.png" width="22px"/> <img src="https://img.icons8.com/color/48/000000/npm.png" width="22px"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="22px"/>
