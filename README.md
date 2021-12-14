@@ -22,9 +22,7 @@
 
 ### Languages, Tools and Skills:
 
-<img src="https://img.icons8.com/dusk/64/000000/code.png" width="35px"/>
-<img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="35px"/>
-<img src="https://img.icons8.com/dusk/64/000000/pycharm.png" width="35px"/>
+<img src="https://img.icons8.com/dusk/64/000000/code.png" width="35px"/><img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="35px"/><img src="https://img.icons8.com/dusk/64/000000/pycharm.png" width="35px"/>
 
 <img src="https://img.icons8.com/color/48/000000/django.png" width="35px"/>
 <img src="https://img.icons8.com/ios/50/000000/flask.png" width="35px"/>
