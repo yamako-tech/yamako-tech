@@ -22,17 +22,8 @@
 
 ### Languages, Tools and Skills:
 
-<img src="https://img.icons8.com/dusk/64/000000/code.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/pycharm.png" width="35px"/>
-
-<img src="https://img.icons8.com/color/48/000000/django.png" width="35px"/> <img src="https://img.icons8.com/ios/50/000000/flask.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/python.png" width="35px"/><img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/react.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="35px"/> <img src="https://img.icons8.com/external-prettycons-flat-prettycons/94/000000/external-css-web-seo-prettycons-flat-prettycons.png" width="35px" /> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="35px"/>
-
-<img src="https://img.icons8.com/dusk/64/000000/wordpress.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/domain.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/security-ssl.png" width="35px"/>
-<img src="https://img.icons8.com/dusk/64/000000/server.png" width="35px"/> <img src="https://img.icons8.com/material-rounded/24/000000/dns.png" width="35px"/>
-
-<img src="https://img.icons8.com/dusk/64/000000/ssh.png" width="35px"/> <img src="https://img.icons8.com/dusk/64/000000/share-2.png" width="35px"/> <img src="https://img.icons8.com/color/48/000000/npm.png" width="35px"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="35px"/>
-<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="35px"/>
-
-<img src="https://img.icons8.com/dusk/64/000000/marketing.png" width="35px"/> <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-bilingual-language-learning-inipagistudio-lineal-color-inipagistudio.png" width="35px"/> <img src="https://img.icons8.com/office/64/000000/training.png" width="35px"/>
+<img src="https://img.icons8.com/dusk/64/000000/code.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/pycharm.png" width="22px"/> <img src="https://img.icons8.com/color/48/000000/django.png" width="22px"/> <img src="https://img.icons8.com/ios/50/000000/flask.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/python.png" width="22px"/><img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/react.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="22px"/> <img src="https://img.icons8.com/external-prettycons-flat-prettycons/94/000000/external-css-web-seo-prettycons-flat-prettycons.png" width="22px" /> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/wordpress.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/domain.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/security-ssl.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/server.png" width="22px"/> <img src="https://img.icons8.com/material-rounded/24/000000/dns.png" width="22px"/> <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/ssh.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/share-2.png" width="22px"/> <img src="https://img.icons8.com/color/48/000000/npm.png" width="22px"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="22px"/>
+<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="22px"/> <img src="https://img.icons8.com/dusk/64/000000/marketing.png" width="22px"/> <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-bilingual-language-learning-inipagistudio-lineal-color-inipagistudio.png" width="22px"/> <img src="https://img.icons8.com/office/48/000000/video-editing.png" width="22px" />
 
 <br />
 <br />
@@ -45,8 +36,4 @@
 [twitter]: https://twitter.com/t_yamamomo
 [youtube]: https://www.youtube.com/playlist?list=PL1TKyoLbKRjRQ42ITxiYfR0CQBPtcNShT
 [instagram]: https://www.instagram.com/yamako2222
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
