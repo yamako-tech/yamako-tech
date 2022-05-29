@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/t_yamamomo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ft_yamamomo&screen_name=t_yamamomo)
 
 
-## I'm a Mother, Wife, Developer, and Teacher!!
+## I'm a Developer, an Engineer, and a Project Manager!!
 
 - 🔭 I am a web-dev of an English school: [As well as a system engineer ][school]!
 - 🌱 I’m currently learning everything 🤣
