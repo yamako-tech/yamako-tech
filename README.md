@@ -1,6 +1,6 @@
 ### Hi there, I'm Tomoko -  [yamako-tech][website] 👋 
 
-[![Website](https://img.shields.io/website?label=ask-tech-gatsby.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ask-tech-gatsby.netlify.app/)
+[![Website](https://img.shields.io/website?label=ask-tech-website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tech.askdjapy.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/t_yamamomo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ft_yamamomo&screen_name=t_yamamomo)
 
 
