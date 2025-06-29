@@ -3,9 +3,6 @@
 
 <br />
 
-<!-- リポジトリステータス -->
-[![yamako-tech's github stats](https://github-readme-stats.vercel.app/api?username=yamako-tech&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yamako-tech/)
-
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamako-tech&layout=compact&theme=tokyonight)](https://github.com/yamako-tech/)
 
